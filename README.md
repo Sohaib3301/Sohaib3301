@@ -1,6 +1,6 @@
 # Hi, I'm Sohaib 👋
 
-### Cybersecurity Enthusiast | Software Developer | AI Builder
+### Cybersecurity Engineer | Software Developer | AI Builder
 
 I'm a BSIT student passionate about building secure software, exploring cybersecurity, and developing AI-powered solutions.
 
